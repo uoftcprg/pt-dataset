@@ -1,0 +1,8 @@
+data/raw-results.csv filter=lfs diff=lfs merge=lfs -text
+data/results.csv filter=lfs diff=lfs merge=lfs -text
+data/chipcounts.csv filter=lfs diff=lfs merge=lfs -text
+data/metadata.csv filter=lfs diff=lfs merge=lfs -text
+data/payouts.csv filter=lfs diff=lfs merge=lfs -text
+data/raw2-chipcounts.csv filter=lfs diff=lfs merge=lfs -text
+data/raw-chipcounts.csv filter=lfs diff=lfs merge=lfs -text
+data/raw-payouts.csv filter=lfs diff=lfs merge=lfs -text
