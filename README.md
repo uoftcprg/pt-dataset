@@ -19,15 +19,15 @@ Citing
 
 If you use our poker tournament dataset in your research, please cite the following:
 
-.. code-block:: bibtex
-
-   @INPROCEEDINGS{11114139,
-     author={Kim, Juho},
-     booktitle={2025 IEEE Conference on Games (CoG)}, 
-     title={Empirical Validation of the Independent Chip Model}, 
-     year={2025},
-     volume={},
-     number={},
-     pages={1-4},
-     keywords={Video games;Games;Organizations;Multi-agent systems;Card games;Games of chance;Multi-agent systems;Poker;Strategy games},
-     doi={10.1109/CoG64752.2025.11114139}}
+```bibtex
+@INPROCEEDINGS{11114139,
+  author={Kim, Juho},
+  booktitle={2025 IEEE Conference on Games (CoG)}, 
+  title={Empirical Validation of the Independent Chip Model}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-4},
+  keywords={Video games;Games;Organizations;Multi-agent systems;Card games;Games of chance;Multi-agent systems;Poker;Strategy games},
+  doi={10.1109/CoG64752.2025.11114139}}
+```
